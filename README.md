@@ -20,7 +20,7 @@ Example
 
 See the [144.05MHz Example](si5351.cpp) file for more information.
 
-The SILabs Clockbuilder software can be [downloaded from Adafruit].(http://www.adafruit.com/downloads/ClockBuilderDesktopSwInstallSi5351.zip)
+The [SILabs Clockbuilder](http://www.adafruit.com/downloads/ClockBuilderDesktopSwInstallSi5351.zip) software can be downloaded from Adafruit.
 
 Notes
 -----
