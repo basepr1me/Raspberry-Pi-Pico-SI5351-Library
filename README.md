@@ -9,7 +9,7 @@ Usage
 
 Clone the library to your project:
 
-		git clone https://github.com/basepr1me/Raspberry-Pi-Si5351.git
+		git clone https://github.com/basepr1me/Raspberry-Pi-Pico-SI5351-Library.git
 
 One class instantiation method in place:
 
