@@ -1,6 +1,6 @@
-# Raspberry Pi Pico Si5351 Library
+# Raspberry Pi Pico SI5351 Library
 
-Raspberry Pi Pico Si5351 Library
+Raspberry Pi Pico SI5351 Library
 
 This Si5351 library is a driver for the Si5351A clock generator chip.
 
