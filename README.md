@@ -11,7 +11,7 @@ Clone the library to your project:
 
 		git clone https://github.com/basepr1me/Raspberry-Pi-Pico-SI5351-Library.git
 
-One class instantiation method in place:
+One class instantiation method is in place:
 
 		Si5351(config);
 
